@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  real_product_id: 1
+  date: 2014-06-29
+  price: 1.5
+
+two:
+  real_product_id: 1
+  date: 2014-06-29
+  price: 1.5

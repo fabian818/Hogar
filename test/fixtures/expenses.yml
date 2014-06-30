@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  expense_type: 
+  user_id: 1
+  total: 1.5
+  date: 2014-06-29
+
+two:
+  expense_type: 
+  user_id: 1
+  total: 1.5
+  date: 2014-06-29
